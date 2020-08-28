@@ -1,6 +1,6 @@
-## Môn học: Học Thống Kê
-### Thực hiện: 1712307 Lê Xuân Cường - 1712237 Đặng Tấn Tài
-Để chạy code cần thực hiện những câu lệnh sau: (Lưu ý: cần bỏ file weights, file class_names và file cfg vào đúng thư mục trong source code)
+FastAPI && Yolo V3 - Vietnamese Food Recognition
+First of all, download and put: weights, obj.names and .cfg file into correct dir.
+Then, run below code: 
 ```
 cd folder/contain/source/code
 pip install -r requirements.txt
